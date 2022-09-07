@@ -1,1 +1,1 @@
-[![Kamilkowdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilkowdev&count_private=true&show_icons=true&theme=radical)](https://github.com/kamilkowdev/github-readme-stats)
+[![Kamilkowdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilkowdev&hide=issues&show_icons=true&count_private=true&theme=radical)](https://github.com/kamilkowdev/github-readme-stats)
